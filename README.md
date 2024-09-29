@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm currently a graduate student at Sacramento State University!
+
+- I graduated with a bachelor's degree in Pure Mathematics from the University of California, Los Angeles in 2022!
+
 <!--
 **LanceRemigio/LanceRemigio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
